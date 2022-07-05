@@ -2,7 +2,7 @@ Hi there, I'm Kenji! 👋
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=Kenj-i&show_icons=true&theme=radical" />
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenj-i&layout=compact" />
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenj-i&layout=compact&theme=radical" />
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
