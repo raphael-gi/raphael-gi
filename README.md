@@ -1,4 +1,4 @@
-Hi there, I'm Kenji! 👋
+## Hi there, I'm Kenji! 👋
 
 <img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=Kenj-i&show_icons=true&theme=radical" />
 
